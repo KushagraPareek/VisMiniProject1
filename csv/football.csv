@@ -1,0 +1,251 @@
+Id,Name,Age,Nationality,Rating,Potential,Club,Value,Wage,Foot,Reputation,Skill_rating,Height,Weight,Stamina,Reflexes,Clause_money
+1,Park Sun Ju,26,Korea Republic,64,67,Gangwon FC,€450K,€2K,Left,1,2,5'9,137lbs,63,7,€596K
+2,Ailton Cardenhas,30,Brazil,69,69,Santos,€675K,€7K,Right,1,1,6'4,185lbs,16,69,€1.3M
+3,S. Kolašinac,25,Bosnia Herzegovina,79,82,Arsenal,€13M,€89K,Left,2,3,6'0,187lbs,81,9,€25.7M
+4,L. Modrić,32,Croatia,91,91,Real Madrid,€67M,€420K,Right,4,4,5'8,146lbs,76,9,€137.4M
+5,C. Coleman,21,Republic of Ireland,58,67,St. Patrick's Athletic,€200K,€1K,Right,1,2,5'11,154lbs,58,8,€350K
+6,C. Maboulou,28,Congo,63,63,AS Nancy Lorraine,€375K,€2K,Right,1,2,6'1,174lbs,35,15,€656K
+7,J. Tagueu,24,Cameroon,72,75,Clube Sport Marítimo,€4M,€8K,Left,1,3,5'10,172lbs,23,14,€8.7M
+8,K. Miś,22,Poland,60,66,Wisła Płock,€240K,€1K,Right,1,2,6'0,161lbs,56,8,€372K
+9,Li Shenglong,25,China PR,58,60,Shanghai SIPG FC,€160K,€2K,Right,1,2,5'11,165lbs,19,6,€364K
+10,R. James,18,England,68,84,Wigan Athletic,€1.6M,€8K,Right,1,3,5'11,181lbs,69,11,€4.2M
+11,G. Carabajal,26,Argentina,69,69,Patronato,€1.1M,€7K,Right,1,3,5'10,165lbs,30,6,€1.6M
+12,J. Grimmer,24,Scotland,66,72,Coventry City,€750K,€3K,Right,1,2,6'0,183lbs,64,7,€1.5M
+13,F. Mendy,23,France,78,86,Olympique Lyonnais,€13M,€47K,Left,1,4,5'10,161lbs,75,9,€27.3M
+14,Y. M'Vila,28,France,79,80,AS Saint-Étienne,€11.5M,€36K,Right,2,3,6'0,176lbs,75,7,€22.7M
+15,Wiliam Santinho,34,Brazil,71,71,Fluminense,€950K,€13K,Right,1,1,6'5,201lbs,13,73,€1.8M
+16,A. Masina,24,Italy,74,79,Watford,€6.5M,€33K,Left,1,3,6'3,192lbs,74,6,€12.8M
+17,T. Acar,32,Turkey,68,68,Sivasspor,€525K,€5K,Right,1,1,6'2,172lbs,20,78,€1.1M
+18,J. Hove,17,Norway,56,74,Strømsgodset IF,€180K,€1K,Right,1,2,5'10,159lbs,51,13,€338K
+19,J. Siebenhandl,28,Austria,71,72,SK Sturm Graz,€1.9M,€11K,Left,1,1,6'0,179lbs,24,74,€2.9M
+20,C. Brown,26,United States,57,62,Seattle Sounders FC,€100K,€1K,Right,1,1,6'5,201lbs,11,64,€158K
+21,K. Bistrović,20,Croatia,69,82,PFC CSKA Moscow,€1.8M,€1K,Right,1,3,6'0,165lbs,72,10,€5.1M
+22,D. Avdijaj,21,Kosovo,71,78,Willem II,€3.4M,€6K,Right,1,3,5'8,154lbs,23,8,€5.5M
+23,P. Bajza,26,Slovakia,64,67,Vejle Boldklub,€400K,€2K,Right,1,1,6'5,196lbs,17,70,€530K
+24,Diga,20,Portugal,63,72,CD Feirense,€500K,€2K,Right,1,2,5'8,152lbs,65,11,€1.2M
+25,Y. Takahagi,31,Japan,69,69,FC Tokyo,€900K,€6K,Right,1,3,6'0,152lbs,63,15,€1.1M
+26,Nicolás Formido,30,Brazil,74,74,Internacional,€5.5M,€23K,Left,1,4,6'0,170lbs,29,12,€10.5M
+27,L. Selahi,19,Albania,60,73,Standard de Liège,€375K,€1K,Right,1,3,5'11,154lbs,53,14,€797K
+28,Zuo Yiteng,23,China PR,56,65,Changchun Yatai FC,€120K,€1K,Right,1,2,5'10,152lbs,61,6,€282K
+29,F. Sporkslede,24,Netherlands,65,68,NAC Breda,€575K,€2K,Right,1,3,5'10,152lbs,64,12,€877K
+30,A. Riel,28,Denmark,63,63,Aarhus GF,€375K,€3K,Right,1,3,6'0,161lbs,14,15,€469K
+31,A. Goelzer,19,France,57,71,Valenciennes FC,€200K,€1K,Left,1,2,6'0,165lbs,61,6,€475K
+32,P. Klimala,19,Poland,61,73,Jagiellonia Białystok,€450K,€1K,Right,1,2,6'0,168lbs,18,12,€698K
+33,A. Nguiamba,19,France,60,77,AS Nancy Lorraine,€400K,€1K,Left,1,2,5'10,161lbs,57,10,€950K
+34,M. Austin,27,Australia,62,62,Newcastle Jets,€325K,€1K,Left,1,3,6'1,172lbs,44,7,€406K
+35,N. Bertocchi,29,Argentina,64,64,Club Deportes Temuco,€425K,€1K,Right,1,2,6'4,181lbs,63,15,€574K
+36,G. Barry,37,England,72,72,West Bromwich Albion,€425K,€16K,Left,2,3,6'0,172lbs,73,12,€808K
+37,R. Saïss,28,Morocco,74,74,Wolverhampton Wanderers,€5.5M,€55K,Left,1,3,6'3,185lbs,75,7,€10.5M
+38,J. Bruijn,21,Netherlands,64,71,SC Heerenveen,€625K,€2K,Right,1,3,5'7,148lbs,60,13,€1.1M
+49,N. Mushekwi,30,Zimbabwe,72,72,Dalian YiFang FC,€3M,€11K,Left,1,2,6'2,179lbs,29,11,€6.5M
+40,Filipe Chaby,24,Portugal,70,76,Os Belenenses,€2.4M,€4K,Left,1,4,5'9,141lbs,41,15,€5.6M
+41,T. Tanaka,20,Japan,56,68,Kashima Antlers,€160K,€1K,Right,1,2,5'9,143lbs,51,8,€240K
+42,F. Pintos,25,Uruguay,59,62,Jaguares de Córdoba,€160K,€1K,Right,1,2,5'11,163lbs,57,12,€228K
+42,V. Germain,28,France,77,77,Olympique de Marseille,€9M,€49K,Right,2,3,5'11,161lbs,21,14,€17.1M
+44,Tan Long,30,China PR,68,68,Changchun Yatai FC,€850K,€5K,Right,1,3,6'1,165lbs,23,14,€1.8M
+45,Guille Donoso,22,Spain,68,76,CD Lugo,€1.3M,€4K,Right,1,3,5'8,143lbs,35,11,€2.4M
+46,Rubén Pérez,29,Spain,75,75,CD Leganés,€5M,€26K,Right,1,2,5'10,161lbs,80,15,€10.5M
+47,A. Kuruniyan,21,India,56,70,,€0.00,€0.00,Left,1,2,5'9,154lbs,15,8,
+48,Jailson Oliva,26,Brazil,70,70,Atlético Mineiro,€1.5M,€16K,Right,1,3,5'7,143lbs,70,16,€2.9M
+49,E. Bajrami,25,FYR Macedonia,62,63,SKN St. Pölten,€350K,€3K,Left,1,3,5'8,137lbs,38,8,€534K
+50,N. Bahoui,27,Sweden,68,68,Grasshopper Club Zürich,€950K,€6K,Right,1,3,6'2,185lbs,25,7,€1.4M
+51,Aleix García,21,Spain,70,82,Girona FC,€3.1M,€37K,Right,1,3,5'8,150lbs,63,7,
+52,J. Mensah,27,Ghana,71,72,Columbus Crew SC,€2.2M,€5K,Right,2,2,6'2,183lbs,70,8,€3.5M
+53,L. Lacroix,26,Switzerland,71,76,Hamburger SV,€2.6M,€17K,Right,1,2,6'6,203lbs,76,11,
+54,D. Tomii,28,Japan,56,57,Shonan Bellmare,€70K,€1K,Right,1,1,6'0,163lbs,13,60,€93K
+55,Bruno Saltor,37,Spain,74,74,Brighton & Hove Albion,€650K,€25K,Right,1,3,5'11,168lbs,80,7,€1.2M
+56,G. Herrera,34,Argentina,67,67,Rosario Central,€400K,€6K,Right,1,2,5'11,183lbs,45,10,€600K
+57,D. Vidošić,31,Australia,66,66,Melbourne City FC,€575K,€4K,Right,1,3,6'0,163lbs,50,6,€719K
+58,C. Ramsebner,29,Austria,66,66,LASK Linz,€500K,€4K,Right,1,2,6'3,183lbs,64,12,€725K
+59,J. Sánchez,28,Mexico,71,71,Guadalajara,€1.9M,€22K,Right,1,3,5'6,150lbs,70,9,€3.2M
+60,J. Vestergaard,25,Denmark,80,81,Southampton,€14.5M,€51K,Right,2,2,6'6,216lbs,83,10,€28.6M
+61,Dani Martín,19,Spain,66,78,Real Sporting de Gijón,€875K,€1K,Right,1,1,6'1,168lbs,14,69,€1.6M
+62,Rúben Lameiras,23,Portugal,65,71,Plymouth Argyle,€750K,€3K,Left,1,4,5'9,154lbs,48,15,€1.5M
+63,M. Pattier,22,France,58,66,FC Lorient,€140K,€1K,Right,1,1,6'0,165lbs,11,59,€273K
+64,Raúl Albiol,32,Spain,84,84,Napoli,€18M,€88K,Right,3,2,6'3,181lbs,87,8,€30.6M
+65,L. Robles,21,England,56,67,Grimsby Town,€160K,€2K,Right,1,2,5'9,143lbs,20,8,€312K
+66,V. Castellanos,19,Argentina,63,80,New York City FC,€800K,€1K,Right,1,3,5'10,163lbs,34,8,€1.7M
+67,A. Ammitzbøll,19,Denmark,51,64,Aarhus GF,€70K,€1K,Right,1,2,6'2,172lbs,14,13,€131K
+68,V. Janssen,24,Netherlands,75,78,Tottenham Hotspur,€8.5M,€64K,Left,2,3,6'0,194lbs,23,16,€16.4M
+69,P. Malicsek,21,Austria,63,72,SK Rapid Wien,€500K,€2K,Right,1,2,5'10,154lbs,54,16,€850K
+70,L. Mwandwe,17,England,51,68,Shrewsbury,€70K,€1K,Right,1,2,5'10,154lbs,19,15,€166K
+71,Sun Weizhe,21,China PR,53,58,Beijing Renhe FC,€70K,€1K,Right,1,2,5'11,159lbs,53,13,€156K
+72,T. Johnson,17,England,50,66,Crewe Alexandra,€50K,€1K,Right,1,2,5'9,141lbs,51,11,€119K
+73,N. Pope,26,England,80,83,Burnley,€13M,€48K,Right,1,1,6'7,168lbs,15,80,€25.7M
+74,A. Kanibolotskyi,30,Ukraine,63,63,Miedź Legnica,€240K,€1K,Right,1,1,6'3,183lbs,20,67,€324K
+75,M. Sourzac,26,France,63,63,Nîmes Olympique,€260K,€3K,Right,1,1,6'2,172lbs,11,66,€520K
+76,J. Pérez,20,United States,65,81,Los Angeles FC,€1.2M,€2K,Left,1,3,5'5,141lbs,35,7,€2.5M
+77,A. Maitland-Niles,20,England,71,84,Arsenal,€4.5M,€38K,Right,1,3,5'10,157lbs,66,13,€11.4M
+78,L. Ravanelli,21,Italy,66,75,Padova,€875K,€9K,Right,1,2,6'2,165lbs,68,7,
+79,R. Gelmi,23,Switzerland,67,77,FC Thun,€1.1M,€4K,Right,1,2,6'2,172lbs,66,10,€1.8M
+80,T. Klose,30,Switzerland,75,75,Norwich City,€4.9M,€25K,Right,1,2,6'4,192lbs,76,10,€9.4M
+81,R. Tafazolli,26,England,67,68,Peterborough United,€750K,€4K,Left,1,2,6'5,205lbs,68,15,€1.4M
+82,A. Tembeng,26,Cameroon,67,70,CD Tondela,€800K,€2K,Left,1,2,6'2,187lbs,68,15,€1.7M
+83,L. Alessandra,29,England,63,63,Notts County,€375K,€5K,Right,1,3,5'9,161lbs,30,6,€656K
+84,P. Heerwagen,35,Germany,64,64,FC Ingolstadt 04,€110K,€3K,Right,1,1,6'4,196lbs,13,65,€176K
+85,P. Kasami,26,Switzerland,72,73,FC Sion,€3.7M,€22K,Left,1,3,6'2,154lbs,64,6,€5.6M
+86,A. Søderlund,30,Norway,71,71,Rosenborg BK,€2.3M,€6K,Right,1,3,6'2,190lbs,31,7,€3M
+87,N. Höfler,28,Germany,72,72,SC Freiburg,€2.5M,€17K,Right,1,2,5'11,172lbs,70,9,€4.5M
+88,G. Nkoudou,23,France,75,80,Tottenham Hotspur,€9M,€58K,Right,1,3,5'9,161lbs,37,13,€17.3M
+89,A. Elis,22,Honduras,75,82,Houston Dynamo,€9.5M,€8K,Right,1,4,5'11,170lbs,21,9,€16.2M
+90,J. Ibarra,29,Mexico,64,64,Lobos BUAP,€425K,€2K,Right,1,3,5'7,154lbs,61,16,€701K
+91,P. Soko,20,Cameroon,60,69,Club Atlas,€325K,€2K,Right,1,2,5'9,159lbs,34,13,€618K
+92,M. Staniszewski,21,Poland,58,62,Arka Gdynia,€120K,€1K,Right,1,1,6'3,176lbs,20,61,€171K
+93,V. Fernández,19,Chile,59,73,Unión La Calera,€300K,€1K,Left,1,2,5'11,146lbs,58,6,
+94,N. Hasler,27,Liechtenstein,66,66,Chicago Fire,€675K,€3K,Right,1,3,5'9,172lbs,65,11,€979K
+95,G. Dicker,31,Republic of Ireland,67,67,Kilmarnock,€525K,€3K,Right,1,2,6'0,179lbs,66,11,€919K
+96,T. Mokoena,21,South Africa,64,71,,€0.00,€0.00,Right,1,3,5'9,159lbs,48,11,
+97,C. Moţi,33,Romania,69,69,,€0.00,€0.00,Right,1,2,6'0,172lbs,71,7,
+98,S. Walukiewicz,18,Poland,60,76,Pogoń Szczecin,€375K,€1K,Right,1,2,6'2,176lbs,65,6,€741K
+99,Shin Kwang Hoon,31,Korea Republic,64,64,FC Seoul,€300K,€2K,Right,1,2,5'10,170lbs,62,14,€375K
+100,D. Delgado,25,Colombia,70,71,Deportivo Cali,€2.1M,€2K,Right,1,3,6'1,154lbs,70,10,€3.1M
+101,A. Khalili,26,Sweden,71,74,Kasimpaşa SK,€2.9M,€10K,Right,1,3,6'0,170lbs,63,7,€6.1M
+102,L. Hufnagel,24,Georgia,66,71,SpVgg Unterhaching,€850K,€2K,Right,1,3,6'0,161lbs,54,13,€1.3M
+103,M. Rodas,21,Germany,61,69,FSV Zwickau,€375K,€1K,Left,1,3,5'7,143lbs,42,14,€619K
+104,A. Vargas,29,Colombia,67,67,Deportivo Pasto,€750K,€1K,Right,1,3,5'7,154lbs,32,7,€1M
+105,Giuliano,28,Brazil,83,83,Al Nassr,€26M,€64K,Right,2,4,5'8,150lbs,43,8,€44.2M
+106,E. Soriano,29,Germany,67,67,Korona Kielce,€750K,€3K,Right,1,2,6'0,181lbs,21,12,€1M
+107,D. Bingham,28,United States,67,69,LA Galaxy,€650K,€2K,Right,1,1,6'2,190lbs,16,69,€1M
+108,Park Kwang Il,27,Korea Republic,58,58,Jeonnam Dragons,€130K,€1K,Right,1,2,5'9,150lbs,21,15,€163K
+109,K. Majić,20,Croatia,58,72,Fortuna Düsseldorf,€280K,€3K,Right,1,2,5'11,165lbs,24,14,€679K
+110,O. Al Zayni,22,Saudi Arabia,55,62,Al Ahli,€110K,€4K,Right,1,2,5'10,154lbs,58,11,€209K
+111,S. Marinović,26,New Zealand,68,72,Vancouver Whitecaps FC,€800K,€3K,Right,1,1,6'4,209lbs,18,68,€1.3M
+112,E. Oyeleke,25,England,60,63,Port Vale,€260K,€2K,Right,1,2,5'9,165lbs,60,13,€475K
+113,A. Brorsson,19,Sweden,61,72,Örebro SK,€375K,€1K,Right,1,2,6'2,179lbs,62,14,€544K
+114,A. Hinestroza,29,Colombia,65,65,Jaguares de Córdoba,€425K,€1K,Right,1,2,5'11,179lbs,59,11,€574K
+115,J. Brekalo,20,Croatia,76,84,VfL Wolfsburg,€11.5M,€33K,Right,1,4,5'9,154lbs,28,14,€21.9M
+116,A. Cubas,22,Argentina,72,79,Club Atlético Talleres,€3.7M,€10K,Right,1,3,5'7,132lbs,74,7,€6.4M
+117,Manu,34,Switzerland,66,66,Elche CF,€180K,€2K,Left,1,2,5'9,154lbs,65,10,€279K
+118,A. Kovácsik,27,Hungary,69,70,,€0.00,€0.00,Right,1,1,6'4,179lbs,15,75,
+119,S. Arfield,29,Canada,73,73,Rangers FC,€3.8M,€41K,Right,1,3,5'10,176lbs,64,16,€6.9M
+120,Lee Rae Joon,21,Korea Republic,57,66,Pohang Steelers,€160K,€1K,Right,1,2,6'4,159lbs,55,6,€232K
+121,J. Pigott,24,England,63,67,AFC Wimbledon,€500K,€2K,Right,1,2,6'0,132lbs,16,7,€913K
+122,A. Miranchuk,22,Russia,74,81,Lokomotiv Moscow,€8M,€1K,Right,1,3,6'0,159lbs,30,16,€18.4M
+123,K. Tete,22,Netherlands,78,83,Olympique Lyonnais,€11.5M,€47K,Right,2,3,5'11,157lbs,81,10,€22.7M
+124,C. Goddard,21,Japan,55,69,Benevento,€190K,€1K,Left,1,2,5'10,143lbs,33,10,€423K
+125,L. Jagne,20,England,48,60,Morecambe,€50K,€1K,Left,1,2,5'6,137lbs,50,13,€98K
+126,O. Berber,26,Turkey,65,68,Kayserispor,€550K,€4K,Left,1,2,5'9,148lbs,66,11,€1.1M
+127,Paulinho,32,Brazil,71,71,US Cremonese,€1.9M,€3K,Right,1,3,5'9,159lbs,26,8,€3M
+128,D. Blazevic,25,Sweden,59,65,Hammarby IF,€150K,€1K,Right,1,1,6'3,194lbs,11,58,€218K
+129,David García,36,Spain,72,72,UD Las Palmas,€425K,€6K,Right,1,2,6'0,176lbs,72,7,€680K
+130,D. Tarasov,31,Russia,75,75,Lokomotiv Moscow,€4.5M,€1K,Right,1,3,6'4,185lbs,75,10,€9.4M
+131,M. Özil,29,Germany,86,86,Arsenal,€43.5M,€190K,Left,4,4,5'11,168lbs,16,14,€82.7M
+132,D. Buonanotte,30,Argentina,77,77,Universidad Católica,€8.5M,€12K,Left,2,4,5'3,126lbs,31,13,€11.9M
+133,A. Hernández,20,Mexico,59,71,U.N.A.M.,€280K,€3K,Left,1,2,6'0,179lbs,27,10,€532K
+134,G. Lovrencsics,29,Hungary,69,69,,€0.00,€0.00,Right,1,3,5'10,174lbs,62,8,
+135,Gonçalo Cardoso,17,Portugal,64,78,Boavista FC,€800K,€1K,Left,1,2,6'2,174lbs,65,7,€2.2M
+136,B. Véjar,22,Chile,67,75,Colo-Colo,€1.1M,€3K,Right,1,3,5'6,143lbs,63,10,€1.8M
+137,E. Boldewijn,25,Netherlands,66,67,Notts County,€775K,€6K,Right,1,3,6'1,168lbs,20,9,€1.4M
+138,A. Ramírez,19,Chile,57,67,CD Universidad de Concepción,€160K,€1K,Right,1,2,5'10,152lbs,22,5,€256K
+139,S. Ambri,20,France,62,73,Valenciennes FC,€525K,€1K,Left,1,3,5'10,141lbs,19,13,€1M
+140,R. Al Ghamdi,24,Saudi Arabia,58,65,Al Batin,€180K,€2K,Right,1,2,5'10,152lbs,41,9,€333K
+141,H. Winks,22,England,77,85,Tottenham Hotspur,€13M,€66K,Right,1,3,5'9,163lbs,71,10,€26.7M
+142,Han Xuan,27,China PR,58,59,Henan Jianye FC,€120K,€2K,Right,1,2,6'4,187lbs,56,5,€267K
+143,Angulo,34,Spain,72,72,Górnik Zabrze,€1.6M,€6K,Left,1,3,5'11,170lbs,29,8,€2.2M
+144,A. Gasbarro,23,Italy,67,72,Livorno,€850K,€1K,Left,1,2,6'0,159lbs,69,13,€1.4M
+145,E. Rueda,22,Argentina,61,69,Argentinos Juniors,€375K,€2K,Right,1,2,5'9,159lbs,32,7,€619K
+146,S. Salazar,22,Colombia,68,78,Independiente Santa Fe,€1.3M,€2K,Right,1,2,5'11,174lbs,65,9,€2M
+147,N. Vitré,20,France,56,68,Clermont Foot 63,€140K,€1K,Right,1,2,6'0,172lbs,63,8,€273K
+148,L. Vilsvik,29,Norway,67,67,Strømsgodset IF,€575K,€2K,Right,1,2,5'11,161lbs,64,8,€719K
+149,A. Jackson,24,England,67,75,Barnsley,€975K,€4K,Right,1,2,6'2,176lbs,64,8,€1.9M
+150,M. Najjar,18,Australia,51,70,Melbourne City FC,€80K,€1K,Left,1,3,6'0,159lbs,15,9,€150K
+151,P. Eler,27,Slovenia,67,68,FC Wacker Innsbruck,€900K,€3K,Right,1,3,6'1,161lbs,20,9,
+152,A. Schetino,24,Uruguay,66,73,Cosenza,€775K,€11K,Right,1,2,6'0,161lbs,65,10,
+153,A. Ariano,27,Panama,64,67,Patriotas Boyacá FC,€450K,€1K,Left,1,2,5'9,165lbs,66,7,€641K
+154,A. Buongiorno,19,Italy,60,76,Carpi,€400K,€2K,Left,1,2,6'3,176lbs,60,12,
+155,D. Jiménez,29,Mexico,68,68,Lobos BUAP,€900K,€4K,Right,1,3,5'8,137lbs,25,8,€1.5M
+156,M. Dembélé,21,France,64,72,AS Nancy Lorraine,€675K,€2K,Right,1,2,6'0,165lbs,15,12,€1.3M
+157,D. Breitfelder,21,Germany,56,66,VfL Sportfreunde Lotte,€150K,€1K,Right,1,2,6'2,161lbs,24,10,€248K
+158,P. Velthuizen,31,Netherlands,69,69,AZ Alkmaar,€650K,€6K,Right,1,1,6'2,194lbs,12,70,€975K
+159,F. Sgarbi,20,Italy,61,70,Perugia,€350K,€1K,Right,1,2,6'3,185lbs,62,5,€613K
+160,M. Jørgensen,17,Denmark,58,74,Odense Boldklub,€250K,€1K,Right,1,2,6'0,154lbs,22,10,€469K
+161,U. Uçar,31,Turkey,70,70,Medipol Başakşehir FK,€1.2M,€12K,Right,1,3,5'11,154lbs,71,11,€2.2M
+162,G. Dobson,20,England,68,76,Walsall,€1.3M,€3K,Right,1,3,6'1,165lbs,65,7,€2.6M
+163,T. Schneider,20,Germany,51,60,KFC Uerdingen 05,€40K,€1K,Right,1,1,6'3,176lbs,9,52,€66K
+164,G. Corbo,18,Italy,60,80,Bologna,€375K,€2K,Right,1,2,6'1,168lbs,68,6,€1M
+165,V. Darida,27,Czech Republic,78,78,Hertha BSC,€10.5M,€30K,Right,2,3,5'7,141lbs,66,14,€17.9M
+166,Y. Baraye,26,Senegal,68,69,Parma,€1.1M,€17K,Right,1,3,5'10,152lbs,59,15,€2M
+167,T. Söderström,24,Sweden,62,67,IF Brommapojkarna,€400K,€1K,Right,1,2,6'2,168lbs,57,13,€530K
+168,B. Djiby Fall,33,Senegal,67,67,Hobro IK,€475K,€4K,Right,1,3,6'2,181lbs,35,12,€594K
+169,K. Lara,19,Chile,55,70,Curicó Unido,€170K,€1K,Left,1,2,6'0,165lbs,55,8,€336K
+170,Kwoun Sun Tae,33,Korea Republic,72,72,Kashima Antlers,€1.6M,€7K,Right,1,1,6'0,187lbs,14,71,€2M
+171,S. Gomez,22,Colombia,65,75,Itagüí Leones FC,€850K,€1K,Left,1,3,5'7,148lbs,60,6,€1.3M
+172,K. Acosta,22,United States,72,80,Colorado Rapids,€4.5M,€6K,Right,1,3,5'10,150lbs,67,7,€7.4M
+173,J. Archer,25,Scotland,70,73,Millwall,€1.6M,€6K,Right,1,1,6'3,176lbs,18,71,€3.1M
+174,D. Remick,27,United States,65,66,Houston Dynamo,€500K,€2K,Left,1,2,6'1,165lbs,64,7,€788K
+175,O. Yilmaz,20,Austria,56,64,FC Wacker Innsbruck,€140K,€2K,Right,1,2,6'3,176lbs,25,10,€231K
+176,Jordi Alba,29,Spain,87,87,FC Barcelona,€38M,€250K,Left,3,3,5'7,150lbs,84,13,€77.9M
+177,Oriol Busquets,19,Spain,67,82,FC Barcelona,€1.5M,€14K,Right,1,3,6'1,170lbs,63,12,€4M
+178,O. Pineda,22,Mexico,75,83,Guadalajara,€9.5M,€30K,Right,1,4,5'7,141lbs,65,10,€18.1M
+179,M. Albornoz,27,Chile,71,71,Hannover 96,€2M,€18K,Left,1,3,5'11,176lbs,67,10,€3.5M
+180,Liu Dianzuo,28,China PR,65,65,Guangzhou Evergrande Taobao FC,€375K,€4K,Right,1,1,6'2,181lbs,20,65,€825K
+181,W. Longbottom,19,England,53,60,Doncaster Rovers,€80K,€1K,Left,1,2,5'9,137lbs,42,10,€156K
+182,B. Niasse,21,Senegal,63,71,KAS Eupen,€400K,€1K,Right,1,1,6'5,143lbs,14,65,€680K
+183,Mata,29,Spain,76,76,Getafe CF,€7.5M,€25K,Right,1,3,6'2,172lbs,28,12,€15.8M
+184,F. Orlando,21,Italy,67,79,US Salernitana 1919,€1.4M,€2K,Left,1,3,5'6,143lbs,33,5,€2.5M
+185,L. Nilsen,23,Norway,63,72,Tromsø IL,€575K,€1K,Left,1,2,5'11,159lbs,57,13,€834K
+186,A. Cairns,25,England,65,70,Fleetwood Town,€525K,€2K,Left,1,1,6'0,159lbs,11,66,€958K
+187,E. Oti Essigba,21,Ghana,64,74,Esbjerg fB,€725K,€2K,Left,1,3,5'7,143lbs,35,12,€1.1M
+188,Wang Tong,25,China PR,63,67,Shandong Luneng TaiShan FC,€400K,€3K,Right,1,2,5'10,157lbs,58,7,€890K
+189,G. Comerford,24,Republic of Ireland,53,58,Cork City,€70K,€1K,Left,1,2,5'11,176lbs,57,10,€195K
+190,E. Sviatchenko,26,Denmark,74,77,FC Midtjylland,€6M,€19K,Right,1,2,6'0,181lbs,74,16,€8.3M
+191,S. Glarner,30,Switzerland,64,64,FC Thun,€325K,€3K,Right,1,2,5'10,163lbs,61,1,€471K
+192,R. Torres,32,Panama,71,71,Seattle Sounders FC,€1.4M,€5K,Right,1,2,6'2,194lbs,70,12,€2M
+193,Nilson Padilho,30,Brazil,70,70,Chapecoense,€1.7M,€10K,Left,1,3,6'0,179lbs,43,12,€3.2M
+194,Vitolo,28,Spain,81,81,Atlético Madrid,€18M,€65K,Right,2,3,6'1,174lbs,21,16,€36.9M
+195,Rafa López,33,Spain,71,71,CF Rayo Majadahonda,€950K,€5K,Right,1,2,5'10,159lbs,72,8,€1.5M
+196,T. Dangda,30,Thailand,68,68,Sanfrecce Hiroshima,€875K,€6K,Right,1,3,5'11,157lbs,20,12,€1.1M
+197,F. Ben Mustapha,29,Tunisia,68,68,Al Shabab,€600K,€10K,Right,1,1,6'4,181lbs,14,66,€990K
+198,R. Lewandowski,29,Poland,90,90,FC Bayern München,€77M,€205K,Right,4,4,6'0,176lbs,42,10,€127.1M
+199,M. Berrío,21,Colombia,63,76,Atlético Huila,€625K,€1K,Right,1,2,5'11,165lbs,63,7,€1.2M
+200,Gomes,37,Brazil,77,77,Watford,€600K,€25K,Right,2,1,6'3,209lbs,14,83,€1.1M
+201,Bruno Silva,25,Brazil,64,67,Moreirense FC,€475K,€1K,Left,1,2,5'11,161lbs,67,5,€1M
+202,R. López,25,Mexico,71,76,Pachuca,€2.6M,€16K,Right,1,3,6'1,163lbs,66,10,€4.6M
+203,Gabriel Nunes,23,Brazil,63,67,Boavista FC,€400K,€1K,Right,1,2,6'2,190lbs,62,14,€870K
+204,C. Díaz,22,Chile,63,72,Curicó Unido,€475K,€1K,Right,1,2,5'11,146lbs,63,6,€736K
+205,D. Roßbach,25,Germany,68,70,Karlsruher SC,€900K,€3K,Left,1,3,6'2,183lbs,68,7,€1.4M
+206,S. Ben Youssef,29,Tunisia,72,73,Kasimpaşa SK,€2.7M,€11K,Right,1,2,6'2,181lbs,70,10,€5.7M
+207,K. McDonald,29,Scotland,75,75,Fulham,€5M,€46K,Right,1,3,6'4,212lbs,75,8,€9.5M
+208,F. Ben Youssef,27,Tunisia,67,67,Ettifaq FC,€825K,€11K,Right,1,3,6'3,190lbs,24,9,€1.4M
+209,M. Diallo,32,Senegal,69,69,Nîmes Olympique,€600K,€8K,Right,1,2,6'4,172lbs,67,16,€1.2M
+210,A. Damlu,18,Turkey,54,71,Yeni Malatyaspor,€110K,€1K,Right,1,1,5'11,157lbs,11,55,€289K
+211,G. Imbula,25,France,74,77,Rayo Vallecano,€7M,€35K,Left,1,4,6'1,170lbs,63,7,
+212,J. Arango,27,Colombia,72,73,Al Batin,€3.6M,€12K,Right,1,4,5'11,181lbs,24,9,€6.2M
+213,S. Kalajdzic,20,Austria,63,75,FC Admira Wacker Mödling,€650K,€2K,Right,1,2,6'5,168lbs,46,15,€1.1M
+214,H. Ziyech,25,Morocco,83,86,Ajax,€32.5M,€28K,Left,3,4,5'11,143lbs,66,14,€47.9M
+215,Kanu,30,Brazil,69,69,KV Kortrijk,€1M,€7K,Left,1,3,6'0,185lbs,56,12,€1.5M
+216,J. Osorio,26,Canada,71,74,Toronto FC,€2.9M,€6K,Right,1,3,5'9,161lbs,56,13,€4.6M
+217,H. Bahebri,25,Saudi Arabia,67,68,Al Shabab,€900K,€10K,Left,1,4,5'7,148lbs,43,9,€1.6M
+218,V. Cáceres,33,Paraguay,75,75,,€0.00,€0.00,Right,1,3,6'1,181lbs,76,8,
+219,F. Lohkemper,23,Germany,65,72,1. FC Magdeburg,€775K,€4K,Right,1,3,5'11,168lbs,24,13,€1.4M
+220,A. Ajeti,21,Switzerland,74,81,FC Basel 1893,€8M,€19K,Right,1,3,6'0,170lbs,19,16,€13.6M
+221,E. Boateng,24,Ghana,68,73,LA Galaxy,€1.2M,€3K,Left,1,3,5'6,154lbs,49,14,€1.9M
+222,J. Kerr,21,Scotland,63,73,St. Johnstone FC,€525K,€1K,Right,1,2,5'11,165lbs,66,12,€1M
+223,J. Holt,25,Scotland,69,73,Fleetwood Town,€1.3M,€22K,Right,1,3,5'5,154lbs,61,10,
+224,D. Bulthuis,28,Netherlands,68,68,SC Heerenveen,€725K,€4K,Left,1,2,6'3,194lbs,68,16,€1.1M
+225,Jordi Calavera,22,Spain,71,77,SD Eibar,€2.7M,€11K,Right,1,3,6'0,163lbs,65,13,€6.3M
+226,A. Dovbyk,21,Ukraine,63,73,FC Midtjylland,€600K,€4K,Left,1,2,6'1,168lbs,19,10,€900K
+227,Muniain,25,Spain,80,83,Athletic Club de Bilbao,€18.5M,€31K,Right,2,4,5'7,139lbs,55,12,€40.2M
+228,D. Pisot,30,Germany,69,69,Karlsruher SC,€775K,€4K,Right,1,2,6'1,176lbs,70,16,€1.1M
+229,Liu Yue,20,China PR,55,64,Tianjin Quanjian FC,€140K,€2K,Right,1,2,5'9,146lbs,27,11,€329K
+230,E. Conde,35,Uruguay,71,71,,€0.00,€0.00,Right,1,1,6'2,187lbs,11,70,
+231,N. Giménez,21,Argentina,58,71,Rosario Central,€220K,€2K,Right,1,2,6'0,165lbs,55,8,€468K
+232,A. Ocejo,20,Mexico,53,62,Santos Laguna,€90K,€2K,Left,1,2,5'11,157lbs,35,13,€171K
+233,E. Hussain,25,Norway,69,74,Molde FK,€1.4M,€4K,Left,1,4,5'9,152lbs,63,6,€1.8M
+234,M. Fitzgerald,29,Japan,63,63,Kawasaki Frontale,€290K,€2K,Right,1,2,6'1,181lbs,64,7,€377K
+235,Óscar Whalley,24,Spain,65,70,Aarhus GF,€525K,€2K,Left,1,1,6'3,176lbs,18,66,€696K
+236,D. Guastavino,33,Uruguay,68,68,Independiente Santa Fe,€550K,€2K,Right,1,3,5'6,150lbs,28,11,€770K
+237,J. Molina,30,Mexico,73,73,Monterrey,€3M,€31K,Right,1,3,6'1,170lbs,71,15,€5M
+238,S. Miller,30,England,63,63,Crewe Alexandra,€350K,€4K,Right,1,2,5'8,157lbs,20,15,€613K
+239,J. Cano,22,United States,55,64,FC Dallas,€120K,€1K,Right,1,2,6'1,170lbs,60,5,€204K
+240,R. Babel,31,Netherlands,79,79,Beşiktaş JK,€11M,€55K,Right,3,4,6'1,187lbs,28,15,€20.9M
+241,C. Smalling,28,England,81,82,Manchester United,€16M,€130K,Right,3,2,6'4,179lbs,82,15,€30.8M
+242,J. Kana-Biyik,28,Cameroon,74,75,Kayserispor,€5M,€13K,Right,2,2,6'0,190lbs,74,8,€10.4M
+243,J. Campaz,18,Colombia,53,75,Deportes Tolima,€130K,€1K,Left,1,2,5'7,150lbs,22,7,€312K
+244,U. Ceylan,32,Turkey,69,69,Alanyaspor,€600K,€5K,Left,1,1,6'4,187lbs,14,68,€1.2M
+245,B. Moe,26,Norway,64,65,FK Bodø/Glimt,€450K,€1K,Right,1,2,6'0,176lbs,60,9,€596K
+246,E. Dilaver,27,Austria,75,77,Dinamo Zagreb,€6.5M,€1K,Right,1,2,6'0,181lbs,76,10,€14.8M
+247,V. Cordoba,30,Colombia,58,58,Itagüí Leones FC,€90K,€1K,Right,1,2,5'11,179lbs,53,7,€122K
+248,L. Diarra,33,France,80,80,Paris Saint-Germain,€6M,€75K,Right,3,3,5'9,163lbs,79,15,€11.1M
+249,C. Corvalán,29,Argentina,70,70,Unión de Santa Fe,€1.3M,€8K,Left,1,2,5'10,172lbs,65,11,€2M
+250,I. Samba,20,France,56,69,AJ Auxerre,€150K,€1K,Right,1,2,6'0,163lbs,53,14,€364K

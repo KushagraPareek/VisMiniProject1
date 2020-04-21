@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Visualization Lab</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/simple-sidebar.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="d-flex" id="wrapper">
+
+    <!-- Sidebar -->
+    <div class="bg-light border-right" id="sidebar-wrapper">
+      <div class="sidebar-heading">VISUALIZATION LAB</div>
+      <div class="list-group list-group-flush">
+  
+        <a href="#" onClick="plot_age() "class="list-group-item list-group-item-action bg-light" id="age">Age</a>
+        <a href="#" onClick="plot_nation()"class="list-group-item list-group-item-action bg-light" id="nation">Nationality</a>
+        <a href="#" onClick="plot_rating()"class="list-group-item list-group-item-action bg-light" id="rating">Rating</a>
+        <a href="#" onClick="plot_potential()"class="list-group-item list-group-item-action bg-light" id="potential">Potential</a>
+        <a href="#" onClick="plot_club()"class="list-group-item list-group-item-action bg-light" id="club">Club</a>
+        <a href="#" onClick="plot_value()" class="list-group-item list-group-item-action bg-light" id="value">Value</a>
+        <a href="#" onClick="plot_wage()"  class="list-group-item list-group-item-action bg-light" id="wage">Wage</a>
+        <a href="#" onClick="plot_foot()"class="list-group-item list-group-item-action bg-light" id="foot">Foot</a>
+        <a href="#" onClick="plot_reputation()"class="list-group-item list-group-item-action bg-light" id="reputation">Reputation</a>
+        <a href="#" onClick="plot_skill()"class="list-group-item list-group-item-action bg-light" id="skill">Skill Rating</a>
+        <a href="#" onClick="plot_height()"class="list-group-item list-group-item-action bg-light" id="height">Height</a>
+        <a href="#" onClick="plot_weight()"class="list-group-item list-group-item-action bg-light" id="weight">Weight</a>
+        <a href="#" onClick="plot_stamina()"class="list-group-item list-group-item-action bg-light" id="stamina">Stamina</a>
+        <a href="#" onClick="plot_reflexes()"class="list-group-item list-group-item-action bg-light" id="reflexes">Reflexes</a>
+        <a href="#" onClick="plot_clause()"class="list-group-item list-group-item-action bg-light" id="clause_money">ClauseMoney</a>
+      </div>
+    </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+
+      <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+        <button class="btn btn-primary" id="menu-toggle">Toggle Menu</button>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        
+      </nav>
+
+      <div class="container-fluid">
+        <h1 class="mt-4">Football Player Data</h1>
+      </div>
+      <div style="margin:30px">
+      	<p>
+          <label># bins</label>
+          <input type="number" min="1" max="100" step="5" value="20" id="nBin">
+      </div>
+      <div id="graph_data"></div>
+    
+    </div>
+    <!-- /#page-content-wrapper -->
+
+  </div>
+  <!-- /#wrapper -->
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- D3 javascript -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="js/index.js"></script>
+  <!-- Menu Toggle Script -->
+  <script>
+    $("#menu-toggle").click(function(e) {
+      e.preventDefault();
+      $("#wrapper").toggleClass("toggled");
+    });
+  </script>
+
+</body>
+
+</html>

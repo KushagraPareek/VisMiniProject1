@@ -1,0 +1,18 @@
+ID
+Name
+Age
+Nationality
+Overall
+Potential
+Club
+vale
+wage
+foot
+International reputation
+skill rating
+Height
+weight
+stamina out of 100
+GK Reflexes
+Release clause
+
